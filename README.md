@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
-🔭 I’m currently working at Haemimont AD
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umertahir.1) 
 # 📊 GitHub Stats:
